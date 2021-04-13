@@ -3,9 +3,9 @@
 This project is a starter for Node.js developers to use Codespaces with a finely tuned Node.js developer machine, including system tools, extensions, and more.
 
 ## What's Included
-asdasd
-This is an opinionated environment that should be ready to use as a day-to-day development environment. It comes with the following (opinionated!) software choices:
 
+This is an opinionated environment that should be ready to use as a day-to-day development environment. It comes with the following (opinionated!) software choices:
+asdasd
 ### JavaScript Tools
 
 - **[nvm-sh/nvm](https://github.com/nvm-sh/nvm):** a tool to manage Node.js versions easily. Note, there is no default version installed - you will have to install your own. Using nvm to manage Node.js versions, you'll automatically get:
